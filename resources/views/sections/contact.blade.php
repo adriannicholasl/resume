@@ -15,5 +15,3 @@
 
     @include('sections.contact-form')
 </article>
-
-<!-- @include('scripts.emailjs') -->
