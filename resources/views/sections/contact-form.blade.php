@@ -1,7 +1,8 @@
 <section class="contact-form">
     <h3 class="h3 form-title">Contact Form</h3>
 
-    <form id="contact-form">
+    <form id="contact-form" action="{{ route('send.email') }}" method="POST">
+        @csrf
         <div class="input-wrapper">
             <input type="text" name="name" class="form-input" placeholder="Full name" required />
             <input type="email" name="email" class="form-input" placeholder="Email address" required />
@@ -15,3 +16,9 @@
         </button>
     </form>
 </section>
+
+@if(session('success'))
+<div class="alert alert-success">
+    {{ session('success') }}
+</div>
+@endif
