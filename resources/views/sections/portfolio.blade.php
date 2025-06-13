@@ -117,7 +117,7 @@
                 </a>
             </li>
 
-            <li class="project-item active" data-filter-item data-category="web design">
+            <li class="project-item active" data-filter-item data-category="web development">
                 <a href="https://adriannicholasl.github.io/PTRiaRosa/">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
@@ -129,7 +129,7 @@
 
                     <h3 class="project-title">Company Profile.</h3>
 
-                    <p class="project-category">Web design</p>
+                    <p class="project-category">Web Development</p>
                 </a>
             </li>
 
