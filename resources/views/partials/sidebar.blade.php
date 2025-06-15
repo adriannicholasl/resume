@@ -2,7 +2,7 @@
 <aside class="sidebar" data-sidebar>
     <div class="sidebar-info">
         <figure class="avatar-box">
-            <img src="./assets/images/my-avatar.png" alt="Richard hanrick" width="80" />
+            <img src="./assets/images/profil.png" alt="Richard hanrick" width="50" />
         </figure>
 
         <div class="info-content">

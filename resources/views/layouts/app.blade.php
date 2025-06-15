@@ -1,3 +1,4 @@
+<!-- LOCAL -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,3 +28,5 @@
 </body>
 
 </html>
+
+<!-- secure_asset() -->

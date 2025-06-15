@@ -101,7 +101,7 @@
                 </a>
             </li>
 
-            <li class="project-item active" data-filter-item data-category="applications">
+            <!-- <li class="project-item active" data-filter-item data-category="applications">
                 <a href="#">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
@@ -115,7 +115,7 @@
 
                     <p class="project-category">Applications</p>
                 </a>
-            </li>
+            </li> -->
 
             <li class="project-item active" data-filter-item data-category="web development">
                 <a href="https://adriannicholasl.github.io/PTRiaRosa/">
@@ -134,38 +134,22 @@
             </li>
 
             <li class="project-item active" data-filter-item data-category="web design">
-                <a href="#">
+                <a href="https://www.figma.com/design/EqYye9U1SIF1pcxCBKPHeq/Redesign-MyPertamina-by-Adrian-N?node-id=0-1&t=Q94H971YRQUNgX77-1">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/project-6.png" alt="metaspark" loading="lazy" />
+                        <img src="./assets/images/portopertamina.png" alt="summary" loading="lazy" class="img-portfolio" />
                     </figure>
 
-                    <h3 class="project-title">MetaSpark</h3>
+                    <h3 class="project-title">Redesign UI UX My Pertamina</h3>
 
-                    <p class="project-category">Web design</p>
+                    <p class="project-category">Web Design</p>
                 </a>
             </li>
 
-            <li class="project-item active" data-filter-item data-category="web development">
-                <a href="#">
-                    <figure class="project-img">
-                        <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
-                        </div>
-
-                        <img src="./assets/images/project-7.png" alt="summary" loading="lazy" />
-                    </figure>
-
-                    <h3 class="project-title">Summary</h3>
-
-                    <p class="project-category">Web development</p>
-                </a>
-            </li>
-
-            <li class="project-item active" data-filter-item data-category="applications">
+            <!-- <li class="project-item active" data-filter-item data-category="applications">
                 <a href="#">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
@@ -179,9 +163,9 @@
 
                     <p class="project-category">Applications</p>
                 </a>
-            </li>
+            </li> -->
 
-            <li class="project-item active" data-filter-item data-category="web development">
+            <!-- <li class="project-item active" data-filter-item data-category="web development">
                 <a href="#">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
@@ -195,7 +179,7 @@
 
                     <p class="project-category">Web development</p>
                 </a>
-            </li>
+            </li> -->
         </ul>
     </section>
 </article>
